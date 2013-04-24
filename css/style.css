@@ -1,0 +1,46 @@
+html {
+  background-color: #aeadb6;
+}
+body {
+  color: #fffcf2;
+  font-family: times, serif;
+}
+.container {
+  margin: 40px auto;
+  text-align: center;
+}
+
+a {
+  color: #262465;
+}
+.welcome {
+  margin-bottom: 2em;
+  text-shadow: #666 1px 1px;
+  display: none;
+}
+.project {
+  display: block;
+}
+.project,
+.prefix,
+.animal {
+  font-family: 'Cinzel', serif;
+  font-size: 500%;
+  line-height: .84;
+  margin: 0;
+  text-shadow: #666 1px 1px;
+}
+h1 {
+  margin-bottom: 3em;
+  display: none;
+}
+
+.another {
+  display: none;
+}
+
+.spinner {
+  width: 200px;
+  height: 100px;
+  margin: auto;
+}

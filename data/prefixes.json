@@ -1,0 +1,302 @@
+[
+    {
+        "title":        "black",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "blast",
+        "attributes":   ["scary","science"]
+    },
+    {
+        "title":        "blitz",
+        "attributes":   ["scary","science"]
+    },
+    {
+        "title":        "blue",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "brass",
+        "attributes":   ["material","metal"]
+    },
+    {
+        "title":        "bronze",
+        "attributes":   ["material","metal","precious"]
+    },
+    {
+        "title":        "chrome",
+        "attributes":   ["material","metal"]
+    },
+    {
+        "title":        "chunky",
+        "attributes":   ["physical"]
+    },
+    {
+        "title":        "crystal",
+        "attributes":   ["material"]
+    },
+    {
+        "title":        "death",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "diamond",
+        "attributes":   ["earth","material","precious"]
+    },
+    {
+        "title":        "earth",
+        "attributes":   ["earth","environmental"]
+    },
+    {
+        "title":        "electric",
+        "attributes":   ["science"]
+    },
+    {
+        "title":        "electro",
+        "attributes":   ["musical","science"]
+    },
+    {
+        "title":        "fire",
+        "attributes":   ["elemental"]
+    },
+    {
+        "title":        "forest",
+        "attributes":   ["earth","environmental"]
+    },
+    {
+        "title":        "future",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "ghost",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "giga",
+        "attributes":   ["superlative"]
+    },
+    {
+        "title":        "glass",
+        "attributes":   ["material"]
+    },
+    {
+        "title":        "golden",
+        "attributes":   ["material","metal","precious"]
+    },
+    {
+        "title":        "granite",
+        "attributes":   ["material","stone"]
+    },
+    {
+        "title":        "green",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "grey",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "heavy",
+        "attributes":   ["physical"]
+    },
+    {
+        "title":        "hydro",
+        "attributes":   ["science","water"]
+    },
+    {
+        "title":        "hyper",
+        "attributes":   ["superlative"]
+    },
+    {
+        "title":        "ice",
+        "attributes":   ["elemental","physical","water"]
+    },
+    {
+        "title":        "iron",
+        "attributes":   ["material","metal"]
+    },
+    {
+        "title":        "jade",
+        "attributes":   ["material","precious","stone"]
+    },
+    {
+        "title":        "jazz",
+        "attributes":   ["musical"]
+    },
+    {
+        "title":        "laser",
+        "attributes":   ["science"]
+    },
+    {
+        "title":        "leather",
+        "attributes":   ["material"]
+    },
+    {
+        "title":        "life",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "light",
+        "attributes":   ["metaphysical","physical","science"]
+    },
+    {
+        "title":        "lone",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "lunar",
+        "attributes":   ["environmental","space"]
+    },
+    {
+        "title":        "mega",
+        "attributes":   ["superlative"]
+    },
+    {
+        "title":        "metal",
+        "attributes":   ["material","metal","musical"]
+    },
+    {
+        "title":        "monster",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "moon",
+        "attributes":   ["environmental","space"]
+    },
+    {
+        "title":        "mountain",
+        "attributes":   ["environmental"]
+    },
+    {
+        "title":        "nickel",
+        "attributes":   ["material","metal"]
+    },
+    {
+        "title":        "nuclear",
+        "attributes":   ["science"]
+    },
+    {
+        "title":        "ocean",
+        "attributes":   ["environmental","water"]
+    },
+    {
+        "title":        "onyx",
+        "attributes":   ["material","precious","stone"]
+    },
+    {
+        "title":        "power",
+        "attributes":   ["metaphysical","science"]
+    },
+    {
+        "title":        "punk",
+        "attributes":   ["musical"]
+    },
+    {
+        "title":        "red",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "rock",
+        "attributes":   ["earth","material","musical","stone"]
+    },
+    {
+        "title":        "sapphire",
+        "attributes":   ["material","precious","stone"]
+    },
+    {
+        "title":        "sea",
+        "attributes":   ["environmental","water"]
+    },
+    {
+        "title":        "shock",
+        "attributes":   ["metaphysical","science"]
+    },
+    {
+        "title":        "silent",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "silver",
+        "attributes":   ["material","metal","precious"]
+    },
+    {
+        "title":        "slime",
+        "attributes":   ["environmental"]
+    },
+    {
+        "title":        "snow",
+        "attributes":   ["environmental","water"]
+    },
+    {
+        "title":        "solar",
+        "attributes":   ["science","space"]
+    },
+    {
+        "title":        "sonic",
+        "attributes":   ["science"]
+    },
+    {
+        "title":        "space",
+        "attributes":   ["environmental","science","space"]
+    },
+    {
+        "title":        "stealth",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "steel",
+        "attributes":   ["material","metal"]
+    },
+    {
+        "title":        "stone",
+        "attributes":   ["material","stone"]
+    },
+    {
+        "title":        "super",
+        "attributes":   ["superlative"]
+    },
+    {
+        "title":        "terror",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "thunder",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "time",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "ultra",
+        "attributes":   ["superlative"]
+    },
+    {
+        "title":        "urban",
+        "attributes":   ["environmental"]
+    },
+    {
+        "title":        "venom",
+        "attributes":   ["metaphysical","scary"]
+    },
+    {
+        "title":        "water",
+        "attributes":   ["environmental","water"]
+    },
+    {
+        "title":        "white",
+        "attributes":   ["colour"]
+    },
+    {
+        "title":        "wonder",
+        "attributes":   ["metaphysical"]
+    },
+    {
+        "title":        "wooden",
+        "attributes":   ["material"]
+    },
+    {
+        "title":        "yellow",
+        "attributes":   ["colour"]
+    }
+]
